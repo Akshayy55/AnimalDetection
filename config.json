@@ -1,0 +1,11 @@
+{
+    "DBLocal": {
+      "host" : "localhost",
+      "DB": "AnimalDetection",
+      "DBuser": "postgres",
+      "DBPass": "password",
+      "DBPort": "5432"
+
+  }
+}
+  

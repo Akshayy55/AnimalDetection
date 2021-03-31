@@ -1,0 +1,11 @@
+flask
+rootpath
+sqlalchemy
+tensorflow
+psycopg2
+sqlalchemy
+scipy
+time
+numpy
+base64
+opencv-python
